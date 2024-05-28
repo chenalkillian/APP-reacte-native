@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "ktmfirebase",
+    "slug": "ktmfirebase",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/Video/icon.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Video/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Video/adaptive-icon.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kiki2901.ktmfirebase"
+    },
+    "web": {
+      "favicon": "./assets/Video/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "70761c27-d750-46f9-b7cb-a2f6a9889bb9"
+      }
+    }
+  }
+}
